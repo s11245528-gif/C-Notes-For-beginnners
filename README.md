@@ -47,7 +47,8 @@ Using consistent naming rules makes your code readable, professional, and easy f
 > Avoid starting your names with a double underscore (`__`) or a single underscore followed by a capital letter (e.g., `_MyVariable`). These are explicitly reserved for the C++ compiler and standard implementation—using them can cause unexpected errors!
 
 
-Data Types is the type of the data that you want to store
+## Data Types
+Data type is the type of the data that you want to store in a variable
 Basic data types are:
 * **int** - data 
 Variables is like a container that stores values correspond to the data type.
