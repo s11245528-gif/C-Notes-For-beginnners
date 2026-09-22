@@ -23,7 +23,7 @@ There are three (3) common naming conventions in C++:
 2. **PascalCase** - Capitalizes the first letter of *every* word, including the first one. (e.g., `MyName`)
 3. **snake_case** - Every word is lowercase and separated with an underscore. (e.g., `my_name`)
 
-> **NOTE:**
+> [!NOTE]
 > 1. Capitalize every word if you use the `const` keyword: `const double PI = 3.14; // const keyword prevents modifying the value stored in 'PI'.`
 > 2. You cannot use any characters apart from letters 'A-Z', 'a-z', digits '0-9', and underscores '_'.
 > 3. All names can only begin with an underscore '_' or a letter, never a number.
