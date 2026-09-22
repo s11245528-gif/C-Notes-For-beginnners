@@ -5,6 +5,7 @@ In This Repository you going to cover all the fundamental concepts required in s
 
 # Table of contents
 [Basic Program Structure](#1-basic-structure-of-a-c-program)
+[ VARIABLES & DATA TYEPS](#2-variables--data-tyeps)
 
 # 1. Basic Structure of a C++ program
 Below is the basic structure of any C++ program 
