@@ -7,6 +7,15 @@ In This Repository you going to cover all the fundamental concepts required in s
 [Basic Program Structure](#1-basic-structure-of-a-c-program)
 
 # 1. Basic Structure of a C++ program
+```cpp
+#include <iostream>
+using namespace std;
+
+int main(){
+    //your code
+    return 0;
+}
+```
 Every C++ program has these main parts:
 * **Header Files** : you can include headers from STL or your user defined files
 * "**Using namespace std**" : Prevents naming conflicts from the libraries that you include
