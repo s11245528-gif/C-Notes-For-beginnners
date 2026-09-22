@@ -1,5 +1,6 @@
-![smollz](smollz.png)
-
+<div align = "center">
+    <img src="smollz.png" alt="smollz">
+</div>
 # C++ BEGINNER
 
 ## Table of content:
