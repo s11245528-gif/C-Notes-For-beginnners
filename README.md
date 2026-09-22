@@ -20,4 +20,36 @@ int main(){
 ```
 Every C++ program has these main parts:
 * **Header Files** : you can include headers from STL or your user defined files
-* "**Using namespace std**" : Prevents naming conflicts from the libraries that you include
+* **Using namespace std** : Prevents naming conflicts from the libraries that you include
+* **The main function** : The main function is entry point for all c++ programs
+
+# 2. VARIABLES & DATA TYEPS
+Variables is like a container that stores values correspond to the data type.
+
+## C++ Naming Conventions Reference
+
+Using consistent naming rules makes your code readable, professional, and easy for other developers to maintain. Here is the standard guide for naming entities in C++:
+
+| Entity Type | Style / Case | Rule / Convention | Good Examples |
+| :--- | :--- | :--- | :--- |
+| **Variables** | `camelCase` | Start with a lowercase letter. Capitalize the first letter of each subsequent word. | `int playerScore;`<br>`double itemPrice;` |
+| **Constants** | `UPPER_SNAKE` | Use all capital letters. Separate individual words with an underscore. | `const int MAX_LEVEL = 100;`<br>`const double PI = 3.14159;` |
+| **Functions** | `camelCase` | Start with a lowercase letter. Usually begins with a verb indicating an action. | `void printScore();`<br>`int calculateTotal();` |
+| **Classes / Structs** | `PascalCase` | Capitalize the very first letter and the first letter of each subsequent word. | `class PlayerAccount;`<br>`struct EnemyTarget;` |
+| **Private Members** | `camelCase_` or `_camelCase` | Standard camelCase but with a leading or trailing underscore to denote private scope. | `int _health;`<br>`double speed_;` |
+
+---
+
+> [!TIP]
+> Always use clear, descriptive names instead of single letters. Writing `int dayCount;` is much easier to read and understand six months from now than writing `int d;`. 
+
+> [!WARNING]
+> Avoid starting your names with a double underscore (`__`) or a single underscore followed by a capital letter (e.g., `_MyVariable`). These are explicitly reserved for the C++ compiler and standard implementation—using them can cause unexpected errors!
+
+
+Data Types is the type of the data that you want to store
+Basic data types are:
+* **int** - data 
+Variables is like a container that stores values correspond to the data type.
+
+
