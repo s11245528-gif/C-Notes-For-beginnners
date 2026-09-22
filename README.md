@@ -7,6 +7,7 @@ In This Repository you going to cover all the fundamental concepts required in s
 [Basic Program Structure](#1-basic-structure-of-a-c-program)
 
 # 1. Basic Structure of a C++ program
+Below is the basic structure of any C++ program 
 ```cpp
 #include <iostream> //enable the usage of 'cin' and 'cout'
 using namespace std;//
