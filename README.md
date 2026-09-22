@@ -3,7 +3,7 @@ This Repository contains all the fundamental concepts I've learned so far on my 
 
 In This Repository you going to cover all the fundamental concepts required in studying C++ as a complete beginner
 
----
++ ---
 
 # 1. Basic Structure of a C++ program
 Every C++ program has these main parts:
