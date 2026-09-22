@@ -61,7 +61,7 @@ Data type is the type of the data that you want to store in a variable
 
 ---
 
-**Code Implementation exampel**
+## code Implementation example
 ```cpp
 #include <iostream>
 
