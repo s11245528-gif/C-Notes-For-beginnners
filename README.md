@@ -50,7 +50,13 @@ Using consistent naming rules makes your code readable, professional, and easy f
 ## Data Types
 Data type is the type of the data that you want to store in a variable
 Basic data types are:
-* **int** - data 
-Variables is like a container that stores values correspond to the data type.
+|**Data type**|**Element type**|**Size(in bytes)**|**Example**|
+|:--- |:--- |:--- |:--- |
+|`**int**`|stores integers(whole numbers)|4 bytes|`int number = 54;`|
+|`**double**`|Stores decimals with high
+<br> precission(15-16 decimals)|8 bytes|`const double PI = 3.141592653589793;`|
+
+
+
 
 
