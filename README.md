@@ -58,6 +58,26 @@ Data type is the type of the data that you want to store in a variable
 |`string`|Stores texts(usually add `std::string` if you do not add `using namespace std;` under your headers|32 bytes|`std::string my_name = "SmollZcoDY";`|
 |`char`|Store characters|1 byte|`char dollar = '$';`|
 |`bool`|Store only two values: `true` or `false`|1 bytes|`bool flag = false;`|
+**Code Implementation exampel**
+```cpp
+#include <iostream>
+
+int main(){
+    int number = 3;
+    float area = 3.14;
+    double pi =  3.141592653589793;
+    char hash_symbol = '#';//Note that char data types enclosed values 
+                           //double single quotes
+    bool found = false; // note that it is "false" not "False"
+    std::string name = "SmollZcoDY"; //add 'std::' if you do not add
+    //using namespace std; at the top of your program 
+
+    //Notiec that at the end every statement you should include 
+    //semicolon ';'
+
+    return 0;
+}
+```
 
 
 
