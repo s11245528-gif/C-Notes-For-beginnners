@@ -55,8 +55,7 @@ Basic data types are:
 |`int`|stores integers(whole numbers)|4 bytes|`int number = 54;`|
 |`double`|Stores decimals with high precission(15-16 decimals)|8 bytes|`const double PI = 3.14159265358;`|
 |`float`|Stores decimals with low precission(6-7 decimals)|4 bytes| `float area = 44.4;`|
-|`string`|Stores texts(usually add `std::string` if you do not <br>
-add `using namespace std;` under your headers|32 bytes|`std::string my_name = "SmollZcoDY";`|
+|`string`|Stores texts(usually add `std::string` if you do not add `using namespace std;` under your headers|32 bytes|`std::string my_name = "SmollZcoDY";`|
 
 
 
