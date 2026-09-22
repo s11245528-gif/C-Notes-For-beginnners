@@ -1,5 +1,3 @@
-!\[smollz](smollz.png)
-
 # C++ BEGINNER
 
 ## Table of content:
@@ -12,7 +10,7 @@
 6. [Pointers and Reference](Pointers-and-Reference)
 7. [Function](Function)
 
-\---
+---
 
 ## Naming conventions
 
@@ -20,13 +18,13 @@ There are three (3) naming conventions in C++ <br>
 
 1. pascalCase - Capitalized every first letter of every word exept for the first word
 2. CamelCase  - Capitalized every first letter of every word
-3. snake\_case - Every word is lower case and separated with underscore
+3. snake_case - Every word is lower case and separated with underscore
 
 <br>
->\*\*NOTE:\*\*
+>**NOTE:**
 ><br>1. Capitalized every word if you use `const` keyword: `const double PI = 3.14; // const keyword prevents modifying of the value stored in 'PI'.`
-><br>2. You cannot use any other characters apart from letters 'A-Z' , 'a-z', digits '0-9' and underscore '\_'.
-><br>3. All names can only begin with underscore '\_' or letters not numbers.<br>
+><br>2. You cannot use any other characters apart from letters 'A-Z' , 'a-z', digits '0-9' and underscore '_'.
+><br>3. All names can only begin with underscore '_' or letters not numbers.<br>
 ### Code Example
 ```cpp
 #include <iostream>
@@ -35,10 +33,10 @@ using namespace std;
 int main(){
 string myName = "SmollZcoDY"; //pascalCase
 string MyName = "SmollZcoDY"; //CamelCase
-string my\_name = "SmollZcoDY"; //snake\_case
+string my_name = "SmollZcoDY"; //snake\_case
 
 &#x20;   string 1myName = "SmollZcoDY"; // numbers in front of a variable name is not allowed
-    string \_myName = "SmollZcoDY"; // underscore in front is allowed
+    string _myName = "SmollZcoDY"; // underscore in front is allowed
  
     return 0;
 
@@ -50,11 +48,11 @@ string my\_name = "SmollZcoDY"; //snake\_case
 
 ## Variables
 
-\*\*Variable\*\* is like a container which store a element(s)/value(s) 
+**Variable** is like a container which store a element(s)/value(s) 
 <br> in your program. You must give a meaningful names to your variables.
 <br>
 <br>
-Example: `int my\_name = "Banana" // my\_name is the variable `
+Example: `int my_name = "Banana" // my_name is the variable `
 
 ---
 
@@ -86,7 +84,7 @@ int main(){
 }
 ```
 
-\---
+---
 
 ### Operators
 
