@@ -49,7 +49,7 @@ Using consistent naming rules makes your code readable, professional, and easy f
 
 ## Data Types
 Data type is the type of the data that you want to store in a variable
-Basic data types are:
+<br>Basic data types are:
 |**Data type**|**Element type**|**Size(in bytes)**|**Example**|
 |:--- |:--- |:--- |:--- |
 |`int`|stores integers(whole numbers)|4 bytes|`int number = 54;`|
