@@ -8,9 +8,10 @@ In This Repository you going to cover all the fundamental concepts required in s
 
 # 1. Basic Structure of a C++ program
 ```cpp
-#include <iostream>
-using namespace std;
+#include <iostream> //enable the usage of 'cin' and 'cout'
+using namespace std;//
 
+//the main function (entry point)
 int main(){
     //your code
     return 0;
