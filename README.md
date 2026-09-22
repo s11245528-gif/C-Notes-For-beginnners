@@ -4,7 +4,7 @@ This Repository contains all the fundamental concepts I've learned so far on my 
 In This Repository you going to cover all the fundamental concepts required in studying C++ as a complete beginner
 
 
- [!Note] 
+>[!Note] 
 >you cannot sleep to have every thing done for you
 
 # 1. Basic Structure of a C++ program
